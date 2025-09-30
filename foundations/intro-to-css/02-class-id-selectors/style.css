@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.test{
+    background-color: #FFB6C1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    }
+#non{
+    color: #0000ff;
+    font-size: 36px;
+}
+.three{
+    font-size: 24px;
+}
+#nan{
+    background-color: #7cfc00;
+    font-weight:bold;
+    font-size: 24px;
+}
+
+    /* Add CSS Styling */
